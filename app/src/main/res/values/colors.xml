@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="hl_theme">#ffd100</color>
+    <color name="hl_white">#ffffff</color>
+    <color name="toast_white">#ffffff</color>
+    <color name="hl_6x3">#333333</color>
+    <color name="hl_6x6">#666666</color>
+    <color name="hl_6x9">#999999</color>
+    <color name="hl_6xc">#cccccc</color>
+    <color name="black">#000000</color>
+    <color name="toolbar_selected">#efe3e8</color>
+    <color name="toast_stroke_gray">#9faab8</color>
+    <color name="em_3ED69E">#3ED69E</color>
+    <color name="em_6xd">#dddddd</color>
+    <color name="toolbar_backgroud">#D8D8D8</color>
+    <color name="white">#ffffff</color>
+</resources>
