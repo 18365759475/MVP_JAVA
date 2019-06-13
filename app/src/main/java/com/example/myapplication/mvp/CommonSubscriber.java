@@ -39,7 +39,7 @@ public abstract class CommonSubscriber<T> extends ResourceSubscriber<T> {
         if (showDialog) {
             try {
                 if (loadingDialog == null)
-
+                    loadingDialog = new LoadingDialog(mContext);
                 loadingDialog.setCancelable(true);
                 loadingDialog.setMsg(dialogMsg);
                 loadingDialog.show();
